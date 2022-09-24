@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @breedKernelOfStrong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-breedKernelOfStrong/breedKernelOfStrong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+作为正在学习前端的路上的菜鸡,
+希望前端大佬能指点一些知识和分享一些好用的 东西 比如 好看的 css类的  和 小项目
+:)  感谢
